@@ -5,3 +5,7 @@
 h1{
   @apply text-xl font-bold
 }
+
+.navbtn{
+  @apply h-full p-5 text-white bg-slate-100 bg-opacity-10
+}
